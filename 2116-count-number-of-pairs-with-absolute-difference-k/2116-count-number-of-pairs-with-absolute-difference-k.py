@@ -5,6 +5,4 @@ class Solution:
         for num in nums:
             if (num+k) in d:
                 c+=d[num+k]
-            if (num-k) in d:
-                c+=d[num-k]
-        return c//2    
+        return c   
