@@ -1,13 +1,7 @@
 class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
-        int l,r,n=nums.size();
-        if(n<3){
-            return false;
-        }
-        l=INT_MAX;
-        r=INT_MAX;
-        
+        int l=INT_MAX,r=INT_MAX,n=nums.size();
         for(int i=0;i<n;i++){
             if(nums[i]<=l){
                 l=nums[i];
