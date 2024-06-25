@@ -1,17 +1,18 @@
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
         n=len(grid)
-        gridinverse=[[0 for i in range(n)] for j in range(n)]
+        gridinverse=[]
         for i in range(n):
+            temp=[]
             for j in range(n):
-                gridinverse[j][i]=grid[i][j]
-        for i in range(n):
-            gridinverse[i]="".join(str(gridinverse[i]))
-        for i in range(n):
-            grid[i]="".join(str(grid[i]))
+                temp.append(grid[j][i])
+            gridinverse.append(tuple(temp))
+        grid=[tuple(row) for row in grid]
+        gridinverse=[tuple(row) for row in gridinverse]
         res=0
-        c=Counter(gridinverse)
-        for i in grid:
-            if i in c:
-                res+=c[i]
+        c1=Counter(gridinverse)
+        c2=Counter(grid)
+        for i in c1.keys():
+            if i in c2.keys():
+                res+=(c1[i]*c2[i])
         return res
