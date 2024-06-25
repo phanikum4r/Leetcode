@@ -8,7 +8,6 @@ class Solution:
                 temp.append(grid[j][i])
             gridinverse.append(tuple(temp))
         grid=[tuple(row) for row in grid]
-        gridinverse=[tuple(row) for row in gridinverse]
         res=0
         c1=Counter(gridinverse)
         c2=Counter(grid)
