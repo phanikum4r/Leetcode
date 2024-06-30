@@ -16,10 +16,4 @@ class Solution:
                     trav(root.right,l)
         trav(root1,l1)
         trav(root2,l2)
-        if len(l1)==len(l2):
-            for i in range(len(l1)):
-                if l1[i]!=l2[i]:
-                    return False
-            return True
-        else:
-            return False
+        return l1==l2
