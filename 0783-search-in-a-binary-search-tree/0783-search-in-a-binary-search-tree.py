@@ -7,14 +7,10 @@
 class Solution:
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
         def trav(root):
-            if root:
-                if root.val==val:
-                    return root
-                left=trav(root.left)
-                right=trav(root.right)
-                if left:
-                    return left
-                if right:
-                    return right
-            return None
+            if not root or root.val==val:
+                return root
+            if root.val>val:
+                return trav(root.left)
+            else:
+                return trav(root.right)
         return trav(root)
