@@ -8,13 +8,13 @@ class Solution:
             directed.add((a,b))
         res=0
         visited=[False]*n
-        def dfs(city):
-            nonlocal res
+        q=deque([0])
+        while q:
+            city=q.popleft()
             visited[city]=True
             for neighbour in graph[city]:
                 if not visited[neighbour]:
                     if (city,neighbour) in directed:
                         res+=1
-                    dfs(neighbour)
-        dfs(0)
+                    q.append(neighbour)
         return res
