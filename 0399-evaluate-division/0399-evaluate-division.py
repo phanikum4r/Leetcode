@@ -4,12 +4,10 @@ class Solution:
         for (a,b),val in zip(equations,values):
             graph[a].append([b,val])
             graph[b].append([a,1/val])
-        print(graph)
         def dfs(a,b,v):
             if a not in visited:
                 visited.add(a)
                 for (neighbor,val) in graph[a]:
-                    print(a,b,v)
                     t=v*val
                     if neighbor==b:
                         self.prod=t
