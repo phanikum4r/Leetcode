@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/phanikum4r/Leetcode/tree/master/0162-find-peak-element) |
 | [0450-delete-node-in-a-bst](https://github.com/phanikum4r/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/phanikum4r/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Graph
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/phanikum4r/Leetcode/tree/master/0162-find-peak-element) |
 | [0399-evaluate-division](https://github.com/phanikum4r/Leetcode/tree/master/0399-evaluate-division) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/phanikum4r/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## String
