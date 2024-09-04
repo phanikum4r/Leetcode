@@ -5,5 +5,6 @@ class Solution:
             if i=='0':
                 zeros+=1
             else:
-                m=max(m+(zeros!=0),zeros)
+                if zeros:
+                    m=max(m+1,zeros)
         return m
