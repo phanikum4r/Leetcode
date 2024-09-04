@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/phanikum4r/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/phanikum4r/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/phanikum4r/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/phanikum4r/Leetcode/tree/master/0020-valid-parentheses) |
 | [0399-evaluate-division](https://github.com/phanikum4r/Leetcode/tree/master/0399-evaluate-division) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/phanikum4r/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/phanikum4r/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Shortest Path
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/phanikum4r/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+## Simulation
+|  |
+| ------- |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/phanikum4r/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 <!---LeetCode Topics End-->
