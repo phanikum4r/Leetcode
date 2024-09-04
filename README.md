@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/phanikum4r/Leetcode/tree/master/0162-find-peak-element) |
 | [0450-delete-node-in-a-bst](https://github.com/phanikum4r/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/phanikum4r/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/phanikum4r/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Graph
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/phanikum4r/Leetcode/tree/master/0162-find-peak-element) |
 | [0399-evaluate-division](https://github.com/phanikum4r/Leetcode/tree/master/0399-evaluate-division) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/phanikum4r/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/phanikum4r/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
