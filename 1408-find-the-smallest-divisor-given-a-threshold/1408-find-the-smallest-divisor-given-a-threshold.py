@@ -8,8 +8,6 @@ class Solution:
             res=0
             for dividend in nums:
                 res+=math.ceil(dividend/mid)
-                if res>threshold:
-                    break
             if res>threshold:
                 low=mid+1
             else:
