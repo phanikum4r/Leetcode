@@ -1,33 +1,31 @@
-from collections import deque
-
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        if not board:
-            return False
-        
-        rows = len(board)
-        cols = len(board[0])
-        directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]  # Up, Down, Left, Right
-        
-        def bfs(row, col, idx):
-            if idx == len(word):
+        r, c = len(board), len(board[0])
+        n = len(word)
+
+        def dfs(x, y, idx):
+            if idx == n:
                 return True
-            if row < 0 or row >= rows or col < 0 or col >= cols or board[row][col] != word[idx]:
+            if x < 0 or x >= r or y < 0 or y >= c or board[x][y] != word[idx]:
                 return False
+
+            # Temporarily modify the board to mark this cell as visited
+            temp, board[x][y] = board[x][y], '#'
             
-            original_char = board[row][col]
-            board[row][col] = '#'  # Mark as visited
+            # Explore all four directions
+            found = (dfs(x + 1, y, idx + 1) or
+                     dfs(x - 1, y, idx + 1) or
+                     dfs(x, y + 1, idx + 1) or
+                     dfs(x, y - 1, idx + 1))
             
-            for dr, dc in directions:
-                if bfs(row + dr, col + dc, idx + 1):
+            # Restore the original value
+            board[x][y] = temp
+            
+            return found
+
+        for i in range(r):
+            for j in range(c):
+                if board[i][j] == word[0] and dfs(i, j, 0):
                     return True
-            
-            board[row][col] = original_char  # Revert back
-            return False
-        
-        for r in range(rows):
-            for c in range(cols):
-                if bfs(r, c, 0):
-                    return True
-        
+
         return False
