@@ -3,7 +3,7 @@
  * @return { increment: Function, decrement: Function, reset: Function }
  */
 var createCounter = function(init) {
-    var cur=init
+    let cur=init
     return{
         increment: ()=>++cur,
         decrement: ()=>--cur,
