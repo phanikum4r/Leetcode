@@ -7,8 +7,9 @@ class Solution:
         topsum=sum(heap)
         res=topsum*arr[k-1][1]
         for i in range(k,len(nums1)):
-            topsum-=heapq.heappop(heap)
-            heapq.heappush(heap,arr[i][0])
+            if arr[i][0]<heap[0]:
+                continue
+            topsum-=heapq.heapreplace(heap,arr[i][0])
             topsum+=arr[i][0]
             res=max(topsum*arr[i][1],res)
         return res
