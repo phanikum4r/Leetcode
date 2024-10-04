@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/phanikum4r/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/phanikum4r/Leetcode/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/phanikum4r/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/phanikum4r/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/phanikum4r/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/phanikum4r/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/phanikum4r/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
