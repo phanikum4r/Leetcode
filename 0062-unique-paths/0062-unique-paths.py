@@ -11,3 +11,4 @@ class Solution:
             memo[(i,j)] = dp(i+1,j)+dp(i,j+1)
             return memo[(i,j)]
         return dp(0,0)
+        
