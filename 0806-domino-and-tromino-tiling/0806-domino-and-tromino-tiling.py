@@ -20,7 +20,7 @@ class Solution:
         #     return fmemo[n]
         # return f(n)
 
-        f1,f2,p1,p2=1,2,0,1
+        f1,f2,p2=1,2,1
         fn=0
         if n==1:
             return f1
@@ -28,7 +28,6 @@ class Solution:
             return f2
         for i in range(3,n+1):
             fn=(f2+f1+(2*p2)) % 1000000007
-            p1=p2
             p2+=f1
             f1=f2
             f2=fn   
