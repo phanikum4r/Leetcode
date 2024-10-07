@@ -10,11 +10,24 @@ class Solution:
         #         return max(longest(index1+1,index2),longest(index1,index2+1))
         # return longest(0,0)
 
-        res=[[0]*(len(text2)+1) for _ in range(len(text1)+1)]
-        for i in range(1,len(text1)+1):
-            for j in range(1,len(text2)+1):
+        # res=[[0]*(len(text2)+1) for _ in range(len(text1)+1)]
+        # for i in range(1,len(text1)+1):
+        #     for j in range(1,len(text2)+1):
+        #         if text1[i-1]==text2[j-1]:
+        #             res[i][j]=1+res[i-1][j-1]
+        #         else:
+        #             res[i][j]=max(res[i-1][j],res[i][j-1])
+        # return res[len(text1)][len(text2)]
+
+        if len(text1)<len(text2):
+            text1,text2=text2,text1
+        prev=[0]*(len(text2)+1)
+        for i in range(1, len(text1)+1):
+            cur=[0]*(len(text2)+1)
+            for j in range(1, len(text2)+1):
                 if text1[i-1]==text2[j-1]:
-                    res[i][j]=1+res[i-1][j-1]
+                    cur[j]=1+prev[j-1]
                 else:
-                    res[i][j]=max(res[i-1][j],res[i][j-1])
-        return res[len(text1)][len(text2)]
+                    cur[j]=max(cur[j-1],prev[j])
+            prev=cur
+        return cur[-1]
