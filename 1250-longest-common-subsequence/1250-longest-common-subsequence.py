@@ -19,15 +19,32 @@ class Solution:
         #             res[i][j]=max(res[i-1][j],res[i][j-1])
         # return res[len(text1)][len(text2)]
 
+        # Here once the cur row is computed we no longer require the previous row
+        # Make the cur row as previour row
+        # for initial colum we leave one cell 
+
+        # if len(text1)<len(text2):
+        #     text1,text2=text2,text1
+        # prev=[0]*(len(text2)+1)
+        # for i in range(1, len(text1)+1):
+        #     cur=[0]*(len(text2)+1)
+        #     for j in range(1, len(text2)+1):
+        #         if text1[i-1]==text2[j-1]:
+        #             cur[j]=1+prev[j-1]
+        #         else:
+        #             cur[j]=max(cur[j-1],prev[j])
+        #     prev=cur
+        # return cur[-1]
+
         if len(text1)<len(text2):
             text1,text2=text2,text1
         prev=[0]*(len(text2)+1)
-        for i in range(1, len(text1)+1):
+        for i in range(len(text1)-1,-1,-1):
             cur=[0]*(len(text2)+1)
-            for j in range(1, len(text2)+1):
-                if text1[i-1]==text2[j-1]:
-                    cur[j]=1+prev[j-1]
+            for j in range(len(text2)-1,-1,-1):
+                if text1[i]==text2[j]:
+                    cur[j]=1+prev[j+1]
                 else:
-                    cur[j]=max(cur[j-1],prev[j])
+                    cur[j]=max(cur[j+1],prev[j])
             prev=cur
-        return cur[-1]
+        return cur[0]
