@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/phanikum4r/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0146-lru-cache](https://github.com/phanikum4r/Leetcode/tree/master/0146-lru-cache) |
+| [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/phanikum4r/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Design
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/phanikum4r/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
 | [0399-evaluate-division](https://github.com/phanikum4r/Leetcode/tree/master/0399-evaluate-division) |
+| [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/phanikum4r/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/phanikum4r/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/phanikum4r/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/phanikum4r/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/phanikum4r/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/phanikum4r/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/phanikum4r/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Quickselect
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/phanikum4r/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Interactive
 |  |
@@ -229,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/phanikum4r/Leetcode/tree/master/0338-counting-bits) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
