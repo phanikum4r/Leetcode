@@ -3,7 +3,6 @@ class Solution:
         profit=0
         buy=prices[0]
         for price in prices:
-            if price - buy > 0:
-                profit += price - buy
+            profit += max(0, price-buy)
             buy = price
         return profit
