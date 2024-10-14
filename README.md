@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/phanikum4r/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/phanikum4r/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/phanikum4r/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/phanikum4r/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/phanikum4r/Leetcode/tree/master/0198-house-robber) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/phanikum4r/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
