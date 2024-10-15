@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/phanikum4r/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/phanikum4r/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/phanikum4r/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/phanikum4r/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Design
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/phanikum4r/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/phanikum4r/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/phanikum4r/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/phanikum4r/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/phanikum4r/Leetcode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/phanikum4r/Leetcode/tree/master/0399-evaluate-division) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/phanikum4r/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/phanikum4r/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/phanikum4r/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/phanikum4r/Leetcode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1236-n-th-tribonacci-number](https://github.com/phanikum4r/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/phanikum4r/Leetcode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
