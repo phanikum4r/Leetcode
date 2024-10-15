@@ -22,4 +22,4 @@ class Solution:
         for i in range(len(nums)-1,-1,-1):
             if nums[i]+i>=last_pos:
                 last_pos=i
-        return not last_pos    
+        return last_pos==0    
