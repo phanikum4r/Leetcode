@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/phanikum4r/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/phanikum4r/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/phanikum4r/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/phanikum4r/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/phanikum4r/Leetcode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/phanikum4r/Leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/phanikum4r/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/phanikum4r/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/phanikum4r/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/phanikum4r/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
