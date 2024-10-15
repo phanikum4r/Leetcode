@@ -6,9 +6,9 @@ class Solution:
         dban=0
         q=deque(senate)
         while q:
-            if dcount<=0:
+            if dcount==0:
                 return 'Radiant'
-            if rcount<=0:
+            if rcount==0:
                 return 'Dire'
             if q.popleft()=='R':
                 if rban:
