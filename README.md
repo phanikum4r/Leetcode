@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/phanikum4r/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/phanikum4r/Leetcode/tree/master/0399-evaluate-division) |
+| [0649-dota2-senate](https://github.com/phanikum4r/Leetcode/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/phanikum4r/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/phanikum4r/Leetcode/tree/master/1397-search-suggestions-system) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/phanikum4r/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/phanikum4r/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/phanikum4r/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0649-dota2-senate](https://github.com/phanikum4r/Leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/phanikum4r/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/phanikum4r/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/phanikum4r/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
