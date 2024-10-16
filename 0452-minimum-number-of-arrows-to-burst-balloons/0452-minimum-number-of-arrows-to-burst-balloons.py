@@ -7,6 +7,4 @@ class Solution:
             if start>prev_end:
                 ans+=1
                 prev_end = end
-            else:
-                prev_end = min(prev_end, end)
         return ans
