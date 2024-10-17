@@ -4,6 +4,6 @@ class Solution:
         for i in range(len(s)-1, -1, -1):
             if s[i]!=' ':
                 length += 1
-            elif length>0:
+            elif length:
                 return length
         return length
