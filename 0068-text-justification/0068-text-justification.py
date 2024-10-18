@@ -19,12 +19,11 @@ class Solution:
                     remaining = req_spaces%(cur_words//2)
                     req_spaces //= (cur_words//2)
                     for idx in range(1, cur_words, 2):
-                        cur_line[idx]+= " "*req_spaces
-                    idx=1
-                    while remaining:
-                        cur_line[idx] += " "
-                        remaining -= 1
-                        idx+=2
+                        if remaining:
+                            cur_line[idx]+= " "*(req_spaces + 1)
+                            remaining -= 1
+                        else:
+                            cur_line[idx]+= " "*req_spaces
                     result.append("".join(cur_line))
                 cur_line = [s]
                 cur_len, cur_words = len(s), 1
