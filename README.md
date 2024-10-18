@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/phanikum4r/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/phanikum4r/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/phanikum4r/Leetcode/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/phanikum4r/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/phanikum4r/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/phanikum4r/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/phanikum4r/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/phanikum4r/Leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/phanikum4r/Leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/phanikum4r/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/phanikum4r/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/phanikum4r/Leetcode/tree/master/0068-text-justification) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/phanikum4r/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/phanikum4r/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Backtracking
