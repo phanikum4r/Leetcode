@@ -4,7 +4,7 @@ class Solution:
         s, m = 0, inf
         while end < len(nums):
             s += nums[end]
-            while s >= target and start <= end:
+            while s >= target:
                 m = min(end-start+1, m)
                 s -= nums[start]
                 start += 1
