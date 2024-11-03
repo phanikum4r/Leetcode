@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/phanikum4r/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/phanikum4r/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/phanikum4r/Leetcode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/phanikum4r/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/phanikum4r/Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/phanikum4r/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
@@ -249,12 +250,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/phanikum4r/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/phanikum4r/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/phanikum4r/Leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/phanikum4r/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/phanikum4r/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/phanikum4r/Leetcode/tree/master/0068-text-justification) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/phanikum4r/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/phanikum4r/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
