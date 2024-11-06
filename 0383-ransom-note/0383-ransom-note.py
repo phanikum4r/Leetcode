@@ -3,5 +3,6 @@ class Solution:
         for i in ransomNote:
             if i in magazine:
                 magazine=magazine.replace(i,'',1)
-                ransomNote=ransomNote.replace(i,'',1)
-        return len(ransomNote)==0
+            else:
+                return False
+        return True
