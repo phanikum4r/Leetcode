@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/phanikum4r/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/phanikum4r/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/phanikum4r/Leetcode/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/phanikum4r/Leetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/phanikum4r/Leetcode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/phanikum4r/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/phanikum4r/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/phanikum4r/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/phanikum4r/Leetcode/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/phanikum4r/Leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/phanikum4r/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Simulation
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/phanikum4r/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/phanikum4r/Leetcode/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/phanikum4r/Leetcode/tree/master/0289-game-of-life) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/phanikum4r/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/phanikum4r/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Backtracking
