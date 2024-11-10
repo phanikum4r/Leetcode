@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/phanikum4r/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phanikum4r/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/phanikum4r/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/phanikum4r/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/phanikum4r/Leetcode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/phanikum4r/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/phanikum4r/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/phanikum4r/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/phanikum4r/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/phanikum4r/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/phanikum4r/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/phanikum4r/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/phanikum4r/Leetcode/tree/master/0242-valid-anagram) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/phanikum4r/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/phanikum4r/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/phanikum4r/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/phanikum4r/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1236-n-th-tribonacci-number](https://github.com/phanikum4r/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
