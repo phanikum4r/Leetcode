@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/phanikum4r/Leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/phanikum4r/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/phanikum4r/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/phanikum4r/Leetcode/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/phanikum4r/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/phanikum4r/Leetcode/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/phanikum4r/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/phanikum4r/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/phanikum4r/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/phanikum4r/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/phanikum4r/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/phanikum4r/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/phanikum4r/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/phanikum4r/Leetcode/tree/master/0383-ransom-note) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/phanikum4r/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/phanikum4r/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/phanikum4r/Leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/phanikum4r/Leetcode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1236-n-th-tribonacci-number](https://github.com/phanikum4r/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -439,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/phanikum4r/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/phanikum4r/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/phanikum4r/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/phanikum4r/Leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
