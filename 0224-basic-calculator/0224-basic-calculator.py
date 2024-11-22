@@ -4,7 +4,6 @@ class Solution:
         operand = 0
         sign = 1
         res = 0
-
         for ch in s:
             if ch.isdigit():
                 operand = operand * 10 + int(ch)
