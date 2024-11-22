@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/phanikum4r/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/phanikum4r/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/phanikum4r/Leetcode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/phanikum4r/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/phanikum4r/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/phanikum4r/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/phanikum4r/Leetcode/tree/master/0937-online-stock-span) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/phanikum4r/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/phanikum4r/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/phanikum4r/Leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/phanikum4r/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/phanikum4r/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phanikum4r/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/phanikum4r/Leetcode/tree/master/0169-majority-element) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/phanikum4r/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/phanikum4r/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/phanikum4r/Leetcode/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/phanikum4r/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/phanikum4r/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/phanikum4r/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
