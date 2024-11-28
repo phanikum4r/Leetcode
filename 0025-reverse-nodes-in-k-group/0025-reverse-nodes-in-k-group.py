@@ -25,7 +25,7 @@ class Solution:
                 cur.next = prev
                 prev = cur
                 cur = temp
-            elif i==k:
+            else:
                 last.next = cur.next
                 cur.next = prev
                 prev = last
