@@ -1,8 +1,8 @@
-class Node:
-    def __init__(self,key):
-        self.val=key
-        self.prev=None
-        self.next=None
+# class Node:
+#     def __init__(self,key):
+#         self.val=key
+#         self.prev=None
+#         self.next=None
 class LRUCache:
 
     def __init__(self, capacity: int):
