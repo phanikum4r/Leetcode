@@ -12,13 +12,10 @@ class Solution:
             if not node:
                 return False
 
-            left = trav(node.left)
-            right = trav(node.right)
-            mid = (node == p) or (node == q)
-
-            if mid + left + right >= 2:
+            score = (node == p) + (node == q) + trav(node.left) + trav(node.right)
+            if score > 1:
                 self.lowest = node
 
-            return mid or left or right
+            return score>0
         trav(root)
         return self.lowest
