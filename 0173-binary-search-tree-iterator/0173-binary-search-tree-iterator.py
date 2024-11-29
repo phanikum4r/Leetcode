@@ -10,7 +10,7 @@ class BSTIterator:
         def build(node):
             if not node:
                 return node, node
-                
+
             leftHead, leftTail = build(node.left)
             rightHead, rightTail = build(node.right)
 
@@ -29,11 +29,8 @@ class BSTIterator:
         self.root = TreeNode(-inf, None, build(root)[0])
 
     def next(self) -> int:
-        if self.root and self.root.right:
-            self.root = self.root.right
-            return self.root.val
-        else:
-            return 0
+        self.root = self.root.right
+        return self.root.val
 
     def hasNext(self) -> bool:
         return True if self.root.right else False
