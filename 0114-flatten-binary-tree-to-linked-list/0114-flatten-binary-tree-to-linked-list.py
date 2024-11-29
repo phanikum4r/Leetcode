@@ -9,14 +9,15 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        if not root:
-            return None
-        left = self.flatten(root.left)
-        right = self.flatten(root.right)
-        root.right = left
-        root.left = None
         node = root
-        while node.right:
-            node = node.right
-        node.right = right
-        return root
+        if not node:
+            return None
+        if not node.left and not node.right:
+            return node
+        left_tail = self.flatten(node.left)
+        right_tail = self.flatten(node.right)
+        if left_tail:
+            left_tail.right = node.right
+            node.right = node.left
+            node.left = None
+        return right_tail if right_tail else left_tail
