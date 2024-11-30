@@ -12,9 +12,7 @@ class Solution:
                 left = inorder(node.left)
                 self.idx += 1
                 if self.idx == k:
-                    return node.val 
-                else:
-                    mid = 0     
+                    return node.val   
                 right = inorder(node.right)
                 return left + right
             return 0
