@@ -8,4 +8,19 @@ class Node:
 
 class Solution:
     def cloneGraph(self, node: 'Node') -> 'Node':
-        return copy.deepcopy(node)
+        # return copy.deepcopy(node)
+        self.visited = {}
+        def clone(node):
+            if not node:
+                return node
+            if node in self.visited:
+                return self.visited[node]
+
+            new = Node(node.val, [])
+            self.visited[node] = new
+
+            if node.neighbors:
+                new.neighbors = [clone(i) for i in node.neighbors]
+
+            return new
+        return clone(node)
