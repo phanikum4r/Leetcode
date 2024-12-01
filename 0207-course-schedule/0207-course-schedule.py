@@ -4,7 +4,7 @@ class Solution:
         def dfs(node):
             if node in self.visited:
                 return self.visited[node]
-            if node not in graph:
+            if node not in graph or not graph[node]:
                 return 1
             self.visited[node] = 0
             for neighbor in graph[node]:
