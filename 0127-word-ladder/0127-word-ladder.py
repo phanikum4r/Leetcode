@@ -16,3 +16,5 @@ class Solution:
                         visited.add(change)
                         q.append([change, count + 1])
         return 0
+
+        # time & space: O(len(word)**2 * len(wordList))
