@@ -15,6 +15,7 @@ class Solution:
             if '*' in cur:
                 result.append(cur.pop('*'))
             board[r][c] = '#'
+            # DFS
             for x, y in [(-1,0), (0, -1), (1, 0), (0, 1)]:
                 if r+x < 0 or r+x >= len(board) or c+y < 0 or c+y >= len(board[0]):
                     continue
