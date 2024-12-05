@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/phanikum4r/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/phanikum4r/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/phanikum4r/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/phanikum4r/Leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/phanikum4r/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/phanikum4r/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/phanikum4r/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/phanikum4r/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/phanikum4r/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/phanikum4r/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/phanikum4r/Leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/phanikum4r/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/phanikum4r/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/phanikum4r/Leetcode/tree/master/0290-word-pattern) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/phanikum4r/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/phanikum4r/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/phanikum4r/Leetcode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/phanikum4r/Leetcode/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/phanikum4r/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/phanikum4r/Leetcode/tree/master/1036-rotting-oranges) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/phanikum4r/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/phanikum4r/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/phanikum4r/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Divide and Conquer
 |  |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/phanikum4r/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/phanikum4r/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/phanikum4r/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/phanikum4r/Leetcode/tree/master/0212-word-search-ii) |
 | [1397-search-suggestions-system](https://github.com/phanikum4r/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Counting Sort
 |  |
