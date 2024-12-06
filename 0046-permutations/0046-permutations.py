@@ -1,6 +1,5 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        nums.sort()
         result = []
         def backtrack(arr):
             for i in range(len(nums)):
