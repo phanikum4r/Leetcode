@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/phanikum4r/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/phanikum4r/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/phanikum4r/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/phanikum4r/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/phanikum4r/Leetcode/tree/master/0216-combination-sum-iii) |
