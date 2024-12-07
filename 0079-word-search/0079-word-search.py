@@ -4,11 +4,10 @@ class Solution:
         n = len(word)
 
         def dfs(x, y, idx):
-            if idx == n:
-                return True
             if x < 0 or x >= r or y < 0 or y >= c or board[x][y] != word[idx]:
                 return False
-
+            if idx==n-1:
+                return True
             # Temporarily modify the board to mark this cell as visited
             temp, board[x][y] = board[x][y], '#'
             
