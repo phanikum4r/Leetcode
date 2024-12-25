@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/phanikum4r/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/phanikum4r/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2481-strictly-palindromic-number](https://github.com/phanikum4r/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/phanikum4r/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Stack
 |  |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/phanikum4r/Leetcode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1236-n-th-tribonacci-number](https://github.com/phanikum4r/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2481-strictly-palindromic-number](https://github.com/phanikum4r/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Memoization
 |  |
 | ------- |
@@ -662,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/phanikum4r/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/phanikum4r/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
