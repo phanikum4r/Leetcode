@@ -18,12 +18,12 @@ class Solution:
         #     dp_prev = dp_curr[:]
         # return dp_curr[n-1]
 
-        buy = [-inf] * (k + 1)
-        sell = [0] * (k + 1)
+        buy = [inf] * (k + 1)
+        profit = [0] * (k + 1)
         for price in prices:
             for i in range(1, k + 1):
                 # max profit after buying i-th transaction
-                buy[i] = max(buy[i], sell[i - 1] - price)
+                buy[i] = min(buy[i], price - profit[i - 1])
                 # max profit after selling i-th transaction
-                sell[i] = max(sell[i], buy[i] + price)
-        return sell[k]
+                profit[i] = max(profit[i], price - buy[i])
+        return profit[k]
