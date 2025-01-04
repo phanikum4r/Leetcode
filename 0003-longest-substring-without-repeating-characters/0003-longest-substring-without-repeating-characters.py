@@ -3,7 +3,9 @@ class Solution:
         end = 0
         sub, m = "", 0
         while end < len(s):
+            # check if the letter is seen, if not start =- 1
             start = sub.find(s[end])
+            # if seen, new sub from right of seen index
             if start >= 0:
                 sub = sub[start+1:] + s[end]
             else:
