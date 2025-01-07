@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-snapshot-array](https://github.com/phanikum4r/Leetcode/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/phanikum4r/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/phanikum4r/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1733-maximum-number-of-visible-points](https://github.com/phanikum4r/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/phanikum4r/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/phanikum4r/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2483-task-scheduler-ii](https://github.com/phanikum4r/Leetcode/tree/master/2483-task-scheduler-ii) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/phanikum4r/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1397-search-suggestions-system](https://github.com/phanikum4r/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1733-maximum-number-of-visible-points](https://github.com/phanikum4r/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/phanikum4r/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/phanikum4r/Leetcode/tree/master/0909-stone-game) |
 | [1119-robot-bounded-in-circle](https://github.com/phanikum4r/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1236-n-th-tribonacci-number](https://github.com/phanikum4r/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1733-maximum-number-of-visible-points](https://github.com/phanikum4r/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [2481-strictly-palindromic-number](https://github.com/phanikum4r/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Memoization
 |  |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/phanikum4r/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/phanikum4r/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/phanikum4r/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1733-maximum-number-of-visible-points](https://github.com/phanikum4r/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/phanikum4r/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
@@ -712,4 +716,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/phanikum4r/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [1733-maximum-number-of-visible-points](https://github.com/phanikum4r/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 <!---LeetCode Topics End-->
