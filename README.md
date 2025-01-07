@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [1249-snapshot-array](https://github.com/phanikum4r/Leetcode/tree/master/1249-snapshot-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/phanikum4r/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/phanikum4r/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/phanikum4r/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/phanikum4r/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/phanikum4r/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/phanikum4r/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/phanikum4r/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## String
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/phanikum4r/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/phanikum4r/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/phanikum4r/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/phanikum4r/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
 | ------- |
