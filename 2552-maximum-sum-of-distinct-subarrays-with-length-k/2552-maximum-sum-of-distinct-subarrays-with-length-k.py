@@ -8,11 +8,11 @@ class Solution:
             idx = seen.get(cur, -1)
             while start <= idx or end - start >= k:
                 curSum -= nums[start]
-                del seen[nums[start]]
+                del seen[nums[start]]    # no need to del since start > idx
                 start += 1
             seen[cur] = end
             curSum += cur
-            if len(seen) == k:
+            if end - start + 1 == k:
                 maxSum = max(maxSum, curSum)
             end += 1
         return maxSum
