@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [1249-snapshot-array](https://github.com/phanikum4r/Leetcode/tree/master/1249-snapshot-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/phanikum4r/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2483-task-scheduler-ii](https://github.com/phanikum4r/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/phanikum4r/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/phanikum4r/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/phanikum4r/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/phanikum4r/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2483-task-scheduler-ii](https://github.com/phanikum4r/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/phanikum4r/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/phanikum4r/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/phanikum4r/Leetcode/tree/master/0289-game-of-life) |
 | [1119-robot-bounded-in-circle](https://github.com/phanikum4r/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/phanikum4r/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2483-task-scheduler-ii](https://github.com/phanikum4r/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/phanikum4r/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Backtracking
 |  |
