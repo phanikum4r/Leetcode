@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/phanikum4r/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/phanikum4r/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/phanikum4r/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/phanikum4r/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/phanikum4r/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/phanikum4r/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Interactive
 |  |
 | ------- |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/phanikum4r/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/phanikum4r/Leetcode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/phanikum4r/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/phanikum4r/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Counting
 |  |
 | ------- |
