@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/phanikum4r/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/phanikum4r/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/phanikum4r/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2664-maximize-greatness-of-an-array](https://github.com/phanikum4r/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/phanikum4r/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/phanikum4r/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2664-maximize-greatness-of-an-array](https://github.com/phanikum4r/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-maximum-number-of-visible-points](https://github.com/phanikum4r/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/phanikum4r/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2664-maximize-greatness-of-an-array](https://github.com/phanikum4r/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/phanikum4r/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [2636-maximum-subsequence-score](https://github.com/phanikum4r/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2664-maximize-greatness-of-an-array](https://github.com/phanikum4r/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/phanikum4r/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Interactive
 |  |
