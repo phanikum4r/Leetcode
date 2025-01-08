@@ -10,6 +10,7 @@ class Solution:
             i+=length
             left+=1
             if(length>1):
+                # if len > 10 we need to add each digit
                 for j in list(str(length)):
                     chars[left]=j
                     left+=1    
