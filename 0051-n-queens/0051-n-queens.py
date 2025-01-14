@@ -2,7 +2,6 @@ class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         arr=[['.' for j in range(n)] for i in range(n)]
         result = []
-        cols, diagnols, antidiagnols = set(), set(), set()
         def backtrack(row, cols, diagnols, antidiagnols, arr):
             if row == n:
                 return
@@ -27,5 +26,5 @@ class Solution:
                 diagnols.remove(diagnol)
                 antidiagnols.remove(anti)
                 arr[row][col] = '.'
-        backtrack(0, cols, diagnols, antidiagnols, arr)
+        backtrack(0, set(), set(), set(), arr)
         return result
