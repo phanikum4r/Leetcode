@@ -743,5 +743,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/phanikum4r/Leetcode/tree/master/0176-second-highest-salary) |
 | [1161-project-employees-i](https://github.com/phanikum4r/Leetcode/tree/master/1161-project-employees-i) |
 <!---LeetCode Topics End-->
