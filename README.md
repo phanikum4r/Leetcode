@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/phanikum4r/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/phanikum4r/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/phanikum4r/Leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/phanikum4r/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/phanikum4r/Leetcode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/phanikum4r/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/phanikum4r/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/phanikum4r/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/phanikum4r/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/phanikum4r/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/phanikum4r/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/phanikum4r/Leetcode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/phanikum4r/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/phanikum4r/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/phanikum4r/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/phanikum4r/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/phanikum4r/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/phanikum4r/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/phanikum4r/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/phanikum4r/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/phanikum4r/Leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/phanikum4r/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/phanikum4r/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/phanikum4r/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/phanikum4r/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/phanikum4r/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/phanikum4r/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/phanikum4r/Leetcode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/phanikum4r/Leetcode/tree/master/1397-search-suggestions-system) |
@@ -575,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/phanikum4r/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/phanikum4r/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -648,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/phanikum4r/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/phanikum4r/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/phanikum4r/Leetcode/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/phanikum4r/Leetcode/tree/master/0778-reorganize-string) |
 ## Trie
@@ -746,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/phanikum4r/Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/phanikum4r/Leetcode/tree/master/0177-nth-highest-salary) |
 | [1161-project-employees-i](https://github.com/phanikum4r/Leetcode/tree/master/1161-project-employees-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/phanikum4r/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
