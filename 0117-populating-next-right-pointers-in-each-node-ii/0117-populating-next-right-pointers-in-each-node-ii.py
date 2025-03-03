@@ -29,8 +29,10 @@ class Solution:
         # return root
 
         # using pointers with constant space, leftmost for next level start, prev for linking
-        leftmost, prev = root, None
-        cur = root
+        # since initially all pointers set to null no need to do anything for root
+        # for each level of traversal make below level nodes to point next nodes
+        # if prev is none then left most is that node
+        leftmost = root
         while leftmost:
             cur = leftmost
             prev, leftmost = None, None
