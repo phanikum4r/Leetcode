@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/phanikum4r/Leetcode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/phanikum4r/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/phanikum4r/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0643-maximum-average-subarray-i](https://github.com/phanikum4r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/phanikum4r/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/phanikum4r/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/phanikum4r/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/phanikum4r/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/phanikum4r/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/phanikum4r/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/phanikum4r/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1733-maximum-number-of-visible-points](https://github.com/phanikum4r/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/phanikum4r/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
